@@ -1,0 +1,4 @@
+--skip-bundle
+--skip-test-unit
+-d mysql
+-m https://raw.githubusercontent.com/pbevin/config/master/rails_app_tmpl.rb
